@@ -1,0 +1,8 @@
+C:\InvoiceTask\myprojectmsbuid\myprojectmsbuid\bin\Debug\myprojectmsbuid.exe.config
+C:\InvoiceTask\myprojectmsbuid\myprojectmsbuid\bin\Debug\myprojectmsbuid.exe
+C:\InvoiceTask\myprojectmsbuid\myprojectmsbuid\bin\Debug\myprojectmsbuid.pdb
+C:\InvoiceTask\myprojectmsbuid\myprojectmsbuid\obj\Debug\myprojectmsbuid.csproj.AssemblyReference.cache
+C:\InvoiceTask\myprojectmsbuid\myprojectmsbuid\obj\Debug\myprojectmsbuid.csproj.SuggestedBindingRedirects.cache
+C:\InvoiceTask\myprojectmsbuid\myprojectmsbuid\obj\Debug\myprojectmsbuid.csproj.CoreCompileInputs.cache
+C:\InvoiceTask\myprojectmsbuid\myprojectmsbuid\obj\Debug\myprojectmsbuid.exe
+C:\InvoiceTask\myprojectmsbuid\myprojectmsbuid\obj\Debug\myprojectmsbuid.pdb

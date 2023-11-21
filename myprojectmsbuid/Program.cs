@@ -16,7 +16,7 @@ namespace myprojectmsbuid
         {
             Program p= new Program();   
             p.sushant();
-            Console.ReadLine();
+            Console.ReadLine()
         }
     }
 }
